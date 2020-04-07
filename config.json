@@ -1,0 +1,10 @@
+{
+  "revokedMSG": "You have been un-verified.",
+  "token": "",
+  "guild": "",
+  "logsChannelId": "",
+  "vipRoleID": "",
+  "grantedVipMSG": "You have been verified.",
+  "youHaveExpiredMSG": "Your time has expired, you were un-verified.",
+  "prefix": "!"
+}

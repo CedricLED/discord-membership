@@ -1,0 +1,18 @@
+{
+  "name": "discord-licensing",
+  "version": "2.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric Le Denmat",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.21.0",
+    "node-schedule": "^1.3.0",
+    "sqlite": "^2.9.1",
+    "sqlite3": "^4.0.0"
+  }
+}
